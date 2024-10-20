@@ -2,14 +2,6 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Cabin:ital,wght@0,400..700;1,400..700&display=swap');
 
-/*
-cor marrom #442523
-color 
-color 
-color 
-color 
-*/
-
 *{
     margin: 0;
     padding: 0;
@@ -110,8 +102,6 @@ h2{
     font-size: 1.2rem;
 }
 
-
-
 details{
     color: #41271E;
     background-color: #96D4A6;
@@ -180,5 +170,3 @@ footer{
 a:hover{
     color: #1A4125;
 }
-
-
